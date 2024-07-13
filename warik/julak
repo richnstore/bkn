@@ -26,7 +26,7 @@ if [ -n "$SSH_CLIENT" ] && [ -z "$TMUX" ]; then
 	TEXT="
 ◇━━━━━━━━━━━━━━◇
   ⚠️ AUTOSCRIPT INSTALLER ⚠️
-     ⚠️ VERSI - FREE ⚠️
+     ⚠️ VERSI - BETA 0.1 ⚠️
 ◇━━━━━━━━━━━━━━◇
 TANGGAL  : ${DATE_EXEC}
 DOMAIN      : $(cat /etc/xray/domain)

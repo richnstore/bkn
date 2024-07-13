@@ -1,4 +1,4 @@
-# Old version of Autoscript
+# Makan Jambu
 # No need for IP permission to install this Autoscript (Free Version)
 
 </p> 

@@ -66,7 +66,7 @@ trx=$(grep -c -E "^#! " "/etc/xray/config.json")
 let trb=$trx
 # user
 Exp2=$"Lifetime"
-Name=$"RichN"
+Name=$"Zianfth"
 # Getting CPU Information
 cpu_usage1="$(ps aux | awk 'BEGIN {sum=0} {sum+=$3}; END {print sum}')"
 cpu_usage="$((${cpu_usage1/\.*} / ${corediilik:-1}))"
@@ -125,7 +125,7 @@ echo -e "\e[1;32m Client Name \e[0m: $Name"
 echo -e "\e[1;32m Expired     \e[0m: $Exp2"
 echo -e "${red} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e   ""
-echo -e "\e[1;36m ------AUTOSCRIPT RICH N STORE BETA 0.1------\e[0m"
+echo -e "\e[1;36m ------AUTOSCRIPT RICHNSTORE BETA 0.1------\e[0m"
 echo -e   ""
 read -p " Select menu :  "  opt
 echo -e   ""

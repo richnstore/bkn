@@ -125,7 +125,7 @@ echo -e "\e[1;32m Client Name \e[0m: $Name"
 echo -e "\e[1;32m Expired     \e[0m: $Exp2"
 echo -e "${red} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e   ""
-echo -e "\e[1;36m --------------------wa.me/+6281250851741-------------------\e[0m"
+echo -e "\e[1;36m ------AUTOSCRIPT RICH N STORE BETA 0.1------\e[0m"
 echo -e   ""
 read -p " Select menu :  "  opt
 echo -e   ""

